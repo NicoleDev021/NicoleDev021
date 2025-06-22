@@ -1,4 +1,10 @@
 <!--
+SPDX-FileCopyrightText: © 2025 Madison Nicole Goodwin https://github.com/NicoleDev021
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
+<!--
 **NicoleDev021/NicoleDev021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
