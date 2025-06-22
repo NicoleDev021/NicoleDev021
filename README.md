@@ -1,7 +1,7 @@
 <!--
 SPDX-FileCopyrightText: © 2025 Madison Nicole Goodwin https://github.com/NicoleDev021
 
-SPDX-License-Identifier: CC-BY-4.0 AND GPL-3.0-or-later
+SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 -->
 
 <!--
