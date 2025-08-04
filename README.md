@@ -86,6 +86,7 @@ I specialize in **CI/CD (Continuous Integration and Continuous Delivery/Deployme
 ### 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoleDev021&show_icons=true&theme=vue-dark)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=NicoleDev021&show_icons=true&locale=en&layout=compact&theme=vue-dark)
 
 ### 🔭 Currently Working On
 
